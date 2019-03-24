@@ -1,0 +1,6 @@
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\bin\Debug\PhotoCutter.exe.config
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\bin\Debug\PhotoCutter.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\bin\Debug\PhotoCutter.pdb
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\obj\Debug\PhotoCutter.csprojResolveAssemblyReference.cache
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\obj\Debug\PhotoCutter.exe
+C:\Users\olehk\Documents\Visual Studio 2012\Projects\PhotoCutter\PhotoCutter\obj\Debug\PhotoCutter.pdb
